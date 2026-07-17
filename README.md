@@ -7,8 +7,8 @@ Programmer
 Programmer - 6IX-H.Dev | Lua, Python, JavaScript, Node Js, PHP, C, Etc.
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my portfolio at [MyPortfolio](http://portfolio.6ix-h.dev)
-* 🚀  I'm currently working on [MyWebsite](http://6ix-h.dev)
+* 🖥️  See my portfolio at [MyPortfolio](http://portfolio.6ix9ine.dev)
+* 🚀  I'm currently working on [MyWebsite](http://6ix9ine.dev)
 * 🧠  I'm learning more
 
 ### Skills
