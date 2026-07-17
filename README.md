@@ -1,10 +1,16 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manybaht/manybaht/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manybaht/manybaht/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/manybaht/manybaht/output/github-contribution-grid-snake.svg" />
+</picture>
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is 6IX9INE
 ===============================================================================================================================
 
 Programmer
 ----------
 
-Programmer - 6IX-H.Dev | Lua, Python, JavaScript, Node Js, PHP, C, Etc.
+Programmer - 6ix9ine.dev | Lua, Python, HTML, CSS, JavaScript, Node Js, React, Vue, PHP, C, Etc.
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [MyPortfolio](http://portfolio.6ix9ine.dev)
